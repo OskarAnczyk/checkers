@@ -14,31 +14,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3090105e-663b-4064-9586-a19cce0e0c6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/javafx_fxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/Checkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/checkerblack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/checkerwhite.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/checkers/CheckersMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/checkers/CheckersMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/CheckerPiece.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/CheckerPiece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerPiece.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +200,7 @@
       <workItem from="1610222417531" duration="3384000" />
       <workItem from="1610226888419" duration="771000" />
       <workItem from="1610228175518" duration="81000" />
-      <workItem from="1610351243386" duration="2113000" />
+      <workItem from="1610351243386" duration="2487000" />
     </task>
     <servers />
   </component>
@@ -240,10 +224,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="440" y="114" key="#Project_Structure/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610188018374" />
-    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1610186974843">
+    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser" timestamp="1610353491385">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610186974843" />
+    <state x="765" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353491385" />
     <state x="-1130" y="237" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1610224043951">
       <screen x="-1920" y="4" width="1920" height="1080" />
     </state>
@@ -252,34 +236,34 @@
       <screen x="-1920" y="4" width="1920" height="1080" />
     </state>
     <state x="-1230" y="298" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224022291" />
-    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610189301239">
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1610353622272">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610189301239" />
+    <state x="707" y="374" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353622272" />
     <state x="-1254" y="285" key="FileChooserDialogImpl" timestamp="1610224328069">
       <screen x="-1920" y="4" width="1920" height="1080" />
     </state>
     <state x="-1254" y="285" key="FileChooserDialogImpl/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224328069" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1610353363855">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1610353622559">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353363855" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1610353363855">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353622559" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1610353622559">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353363855" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1610353363854">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353622559" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1610353622559">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353363854" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1610353363855">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353622559" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1610353622559">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353363855" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610353622559" />
     <state x="743" y="260" key="RollbackChangesDialog" timestamp="1610226815536">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
