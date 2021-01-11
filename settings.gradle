@@ -1,2 +1,3 @@
 rootProject.name = 'checkers'
+include 'application'
 
