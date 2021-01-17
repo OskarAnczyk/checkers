@@ -14,9 +14,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3090105e-663b-4064-9586-a19cce0e0c6f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/checkerblackqueen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/checkerwhitequeen.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
@@ -25,11 +22,9 @@
       <change beforePath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/CheckerPiece.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/CheckerPiece.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/Checkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/kodilla/Checkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/CheckerBoard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/Checkers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kodilla/Checkers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kodilla/PieceColor.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +205,7 @@
       <workItem from="1610228175518" duration="81000" />
       <workItem from="1610351243386" duration="2744000" />
       <workItem from="1610362613212" duration="2650000" />
-      <workItem from="1610883780019" duration="8144000" />
+      <workItem from="1610883780019" duration="9030000" />
     </task>
     <servers />
   </component>
@@ -254,26 +249,26 @@
       <screen x="-1920" y="4" width="1920" height="1080" />
     </state>
     <state x="-1254" y="285" key="FileChooserDialogImpl/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224328069" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1610891991867">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1610892474293">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610891991866" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1610891991866">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610892474293" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1610892474293">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610891991866" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1610891991866">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610892474293" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1610892474293">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610891991866" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1610891991866">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610892474293" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1610892474293">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@-1920.4.1920.1080" timestamp="1610224712091" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610891991866" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.4.1920.1080@0.0.1920.1080" timestamp="1610892474293" />
     <state x="743" y="260" key="RollbackChangesDialog" timestamp="1610226815536">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

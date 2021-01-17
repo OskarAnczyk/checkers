@@ -5,6 +5,7 @@ import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
+import javafx.scene.input.DragEvent;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 
@@ -34,7 +35,7 @@ public class CheckerBoard {
         gridPane.setBackground(background);
         gridPane.setGridLinesVisible(true);
 
-        placePieces(gridPane,startingPositions());
+        placePieces(gridPane, startingPositions());
 
         this.board.setBottom(gridPane);
 
@@ -80,7 +81,7 @@ public class CheckerBoard {
     private FlowPane makeFlowPane() {
         FlowPane flowPane = new FlowPane();
 
-        flowPane.setPrefSize(800,100);
+        flowPane.setPrefSize(800, 100);
 
         return flowPane;
     }
@@ -90,15 +91,15 @@ public class CheckerBoard {
 
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
-                if(i < 3){
-                    if((j + i) % 2 == 0){
+                if (i < 3) {
+                    if ((j + i) % 2 == 0) {
                         pieces[i][j] = CheckerPiece.BLACK;
                         continue;
                     }
                 }
 
-                if(i > 4){
-                    if((j + i) % 2 == 0){
+                if (i > 4) {
+                    if ((j + i) % 2 == 0) {
                         pieces[i][j] = CheckerPiece.WHITE;
                         continue;
                     }

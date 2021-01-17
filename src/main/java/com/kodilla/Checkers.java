@@ -15,11 +15,6 @@ import javafx.stage.Stage;
 
 public class Checkers extends Application {
 
-    private Image imageback = new Image("file:src/main/resources/warcaby.png");
-    private Image checkerWhite = new Image("file:src/main/resources/checkerwhite.png");
-    private Image checkerBlack = new Image("file:src/main/resources/checkerblack.png");
-    private GridPane checkers = new GridPane();
-
     public static void main(String[] args) {
         launch(args);
     }
